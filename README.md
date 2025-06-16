@@ -1,7 +1,6 @@
 - 👋 Hi, I’m malsteve527
 - 👀 I’m interested in coding and creating GDI malware.
 - 🌱 I’m currently learning C++ and Python. 
-- 📫 If you have any malware you want me to test, contact me here: malsteve527@gmail.com
 - 😄 Pronouns: he/him
 
 
